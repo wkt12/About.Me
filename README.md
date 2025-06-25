@@ -1,4 +1,4 @@
-                      __        __   _ _   _____ _____  _  ________     
+                               __        __   _ _   _____ _____  _  ________     
  \ \      / /__| | | |_   _|  __ \| |/ /  ____|    
   \ \ /\ / / _ \ | |   | | | |__) | ' /| |__       
    \ V  V /  __/ | |   | | |  _  /|  < |  __|      
@@ -12,9 +12,7 @@
 
         built to attract trouble. 🐍🛡️
 
+⛧ W K T   R Ξ P Ø ⛧
+🜸 honeypots | behavior traps | realtime firewalls
 
-
-
-
-
-
+"transparency is a weapon. act accordingly."
