@@ -230,7 +230,7 @@ Save this file as hydra_rules.yaml inside your falco-rules/ directory in the rep
 
 
 
-Absolutely, Frank — there are some powerful tools and frameworks you can plug into hydra-honeypot-k8s-warden to crank the project into overdrive. Here’s a curated arsenal to consider:
+Absolutely, Frank — there are some powerful tools and frameworks you can plug into hydra-honeypot-k8s-war
 
 ---
 
@@ -597,7 +597,7 @@ results = scanbufferforencryptedstrings(f.read())
 for offset, key, string in results:
 
 print(f"[+]{offset:#08x}  XOR key=0x{key:02X}  ⇒  {string}")
-`
+` 
 
 ---
 
