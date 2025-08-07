@@ -5,3 +5,5 @@
 🜸 honeypots | behavior traps | realtime firewalls
 
 "transparency is a weapon. act accordingly."
+
+<https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia>
